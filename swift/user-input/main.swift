@@ -17,10 +17,13 @@ if let user_input = readLine()
 
 {
  
-    // Print user's input that was entered via the prompt
+    // Print the user's output that was entered into the prompt
     
     print("\(user_input)")
     
 }
 
 // End of Code
+
+// To make a Windows .exe file, go to your project file's directory and put swiftc .\main.swift to do so.
+// To run the Windows .exe file, enter .\main.exe to execute it.
