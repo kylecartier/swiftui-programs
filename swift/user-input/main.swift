@@ -25,5 +25,5 @@ if let user_input = readLine()
 
 // End of Code
 
-// To make a Windows .exe file, go to your project file's directory and put swiftc .\main.swift to do so.
+// To make a Windows .exe file, go to your project file's directory and put swiftc .\main.swift to do so. (swiftc ./main.swift if on macOS or Linux)
 // To run the Windows .exe file, enter .\main.exe to execute it.
