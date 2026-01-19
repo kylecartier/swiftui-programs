@@ -65,7 +65,6 @@ if let first_octet = readLine() {
                                     print(first_octet,".",second_octet,".",third_octet,".",fourth_octet)
                                     print("This is a class B address.")
                                    
-                                    
                                 case 192..<224:
                                     print(first_octet,".",second_octet,".",third_octet,".",fourth_octet)
                                     print("This is a class C address.")
